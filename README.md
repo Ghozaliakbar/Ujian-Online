@@ -1,2 +1,6 @@
 # Ujian-Online
-Tugas ( PBO ) program ( Ujian Online ) - 2200018090
+Tugas Akhir Mata Kuliah PBO 
+program ( Ujian Online ) 
+Nama : Muhammad Ghozali Akbar
+NIM : 2200018090
+Kelas : C
